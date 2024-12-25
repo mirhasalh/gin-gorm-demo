@@ -36,3 +36,6 @@ vendor/
 # Configuration files
 .env
 config.yaml
+
+# Created by Compile Daemon
+gin-gorm-demo
